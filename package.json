@@ -1,5 +1,5 @@
 {
-  "name": "kimi-cli",
+  "name": "@moaftaab/kimi-cli",
   "version": "1.0.0",
   "description": "A beautiful CLI for Kimi AI with rich terminal interface",
   "main": "dist/index.js",
