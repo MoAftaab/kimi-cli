@@ -29,7 +29,7 @@
 ### Installation
 ```bash
 # Install globally via npm
-npm install -g kimi-cli
+npm install -g kimiai-cli
 
 # Or directly from GitHub
 npm install -g git+https://github.com/MoAftaab/kimi-cli.git
