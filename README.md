@@ -6,8 +6,8 @@
 
 *A beautiful command-line interface for Kimi AI with rich visuals and interactive features*
 
-[![Version](https://img.shields.io/npm/v/kimi-cli?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/kimi-cli)
-[![License](https://img.shields.io/npm/l/kimi-cli?style=for-the-badge)](./LICENSE)
+[![Version](https://img.shields.io/npm/v/kimiai-cli?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/kimiai-cli)
+[![License](https://img.shields.io/npm/l/kimiai-cli?style=for-the-badge)](./LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/MoAftaab/kimi-cli?style=for-the-badge&logo=github)](https://github.com/MoAftaab/kimi-cli)
 
 </div>
