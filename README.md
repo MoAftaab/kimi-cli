@@ -26,13 +26,17 @@
 
 ## 🚀 Quick Start
 
-### Installation
 ```bash
-# Install globally via npm
+# Global installation
 npm install -g kimiai-cli
 
-# Or directly from GitHub
-npm install -g git+https://github.com/MoAftaab/kimi-cli.git
+# Verify installation
+kimi --version
+
+# Start using
+kimi config set-key    # Set API key
+kimi ask "Hello!"      # Ask a question
+kimi chat              # Start interactive chat
 ```
 
 ### Setup
