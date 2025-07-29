@@ -133,9 +133,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Made with ❤️ by [MOHD AFTAAB](https://github.com/MoAftaab)**
 
-📧 [moaftaab786@gmail.com](mailto:moaftaab786@gmail.com) • 🐙 [GitHub](https://github.com/MoAftaab)
-
-[![GitHub stars](https://img.shields.io/github/stars/MoAftaab/kimi-cli.svg?style=social&label=Star)](https://github.com/MoAftaab/kimi-cli)
-[![GitHub forks](https://img.shields.io/github/forks/MoAftaab/kimi-cli.svg?style=social&label=Fork)](https://github.com/MoAftaab/kimi-cli/fork)
 
 </div>
